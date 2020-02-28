@@ -9,7 +9,7 @@ opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
 
 ```{r,echo=FALSE,eval=FALSE}
 rmarkdown::render("/home/baydogan/Courses/IE360/Guidelines/example_homework_0.Rmd",output_format="pdf_document")
-rmarkdown::render("/home/baydogan/Courses/IE360/Guidelines/example_homework_0.Rmd",output_format="html_document")
+rmarkdown::render("/Users/AK-AR/Desktop/S/spring20-selencaka/example_homework_0.Rmd",output_format="html_document")
 ```
 
 1. [Time series forecasting using ARIMA models](https://blogs.oracle.com/datascience/introduction-to-forecasting-with-arima-in-r)
