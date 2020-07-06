@@ -4,4 +4,4 @@
 
 [Here](files/Project.html) is the Project.
 
-[Here](files/Project.R) is the Project Code
+[Here](files/Project.R) is the Project Code.
